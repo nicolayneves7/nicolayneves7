@@ -1,4 +1,4 @@
-# 👨‍💻 Nicolay Neves
+# 👨🏽‍💻 Nicolay Neves
 
 **`Desenvolvedor Front-End`**
 
