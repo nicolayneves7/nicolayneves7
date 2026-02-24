@@ -5,8 +5,6 @@
 Me chamo Nicolay Neves, tenho 25 anos e sou natural de São Paulo. Concluí o ensino medio no Ary Bouzan em Cotia, com o curso tecnico em informatica. Atualmente, estou cursando Tecnico em Análise e Desenvolvimento de Sistemas no Senac Lapa Tito. Sou apaixonado por tecnologia e compartilho meu conhecimento aqui através da criação de repositórios.
 
 
-### 📊 Estatísticas
-
 <p>
 
 ### 🤖 Linguagens e Tecnologias
