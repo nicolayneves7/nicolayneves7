@@ -8,7 +8,7 @@ Me chamo Nicolay Neves, tenho 25 anos e sou natural de São Paulo. Concluí o en
 <p>
 
 ### 📊 Estatísticas
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=nicolayneves7&show_icons=true&theme=dracula&count_private=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolayneves7&layout=compact&theme=dracula" height="150"/>
 </div>
