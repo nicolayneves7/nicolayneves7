@@ -9,8 +9,8 @@ Me chamo Nicolay Neves, tenho 25 anos e sou natural de São Paulo. Concluí o en
 
 ### 📊 Estatísticas
 <div align="justify">
-<img src="https://github-readme-stats.vercel.app/api?username=Bianca-Paiva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1%22 height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bianca-Paiva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22 height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Nicolay-Neves7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1%22 height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolay-Neves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22 height="150" alt="languages graph"  />
 </div>
 
 ### 🤖 Linguagens e Tecnologias
