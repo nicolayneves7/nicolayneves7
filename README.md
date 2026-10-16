@@ -6,7 +6,7 @@ Me chamo Nicolay Neves, tenho 25 anos e sou natural de São Paulo. Concluí o en
 
 ---
 
-### 🛠️ Linguagens & Tecnologias
+### Linguagens & Tecnologias
 
 #### **Linguagens & Frameworks**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@ Me chamo Nicolay Neves, tenho 25 anos e sou natural de São Paulo. Concluí o en
 
 ---
 
-### 📊 Estatísticas no GitHub
+###  Estatísticas no GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolayneves7&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="165" alt="Estatísticas de Nicolay" />
@@ -34,7 +34,7 @@ Me chamo Nicolay Neves, tenho 25 anos e sou natural de São Paulo. Concluí o en
 
 ---
 
-### 🌐 Conecte-se comigo
+### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
